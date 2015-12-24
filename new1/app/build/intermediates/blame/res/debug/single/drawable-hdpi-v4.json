@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pass.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/pass.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/close.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/log_off.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/log_off.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/user.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sad.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/sad.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unchecked.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/unchecked.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/satisfy.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/satisfy.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/effortless.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/effortless.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yellow_neutral_face.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/yellow_neutral_face.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_resume.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/button_resume.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/avitaslogo.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/avitaslogo.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/checkbox.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/resume.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/resume.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checked_checkbox.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/checked_checkbox.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bazar_input.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/bazar_input.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_smiley.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable-hdpi/red_smiley.png"
+    }
+]

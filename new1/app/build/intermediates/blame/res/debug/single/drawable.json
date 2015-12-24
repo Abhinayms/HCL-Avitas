@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/avilogo.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/avilogo.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/button_gradient_bg_hover.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/button_gradient_bg_hover.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/very_poor.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/very_poor.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/back.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/send.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/send.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/edit_box_background.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/edit_box_background.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/good.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/good.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/radio_button_off.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/radio_button_off.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/poor.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/poor.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/button_background.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/button_background.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/next.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/next.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/yes.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/yes.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/excellence.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/excellence.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/submit.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/submit.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/submit_button.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/submit_button.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/button_gradient_bg.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/button_gradient_bg.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/no.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/no.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/radio_button_on.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/radio_button_on.png"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/drawable/average.png",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/drawable/average.png"
+    }
+]

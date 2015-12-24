@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/second_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/second_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/inflte_frag_two_first.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/inflte_frag_two_first.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/fragment_third_child_two.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/fragment_third_child_two.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/four_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/four_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/payment_dialog.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/payment_dialog.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/second_fraf_child_two.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/second_fraf_child_two.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/frag_second_child_one.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/frag_second_child_one.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/frag_third_child_one.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/frag_third_child_one.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/activity_main.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/activity_main.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/third_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/third_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/dialog.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/dialog.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/custom_toast.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/custom_toast.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/infltae_one_frag.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/infltae_one_frag.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/fifth_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/fifth_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/six_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/six_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/first_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/first_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/fragment_main.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/fragment_main.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/fragment_six_child_two.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout-sw720dp/fragment_six_child_two.xml"
+    }
+]

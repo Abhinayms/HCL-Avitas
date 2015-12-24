@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/anim/slide_in_left.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/anim/mycustom_toast.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/anim/mycustom_toast.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/anim/slide_in_right.xml"
+    }
+]

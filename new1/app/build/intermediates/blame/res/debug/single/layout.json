@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/inflte_frag_two_first.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/inflte_frag_two_first.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/second_fraf_child_two.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/second_fraf_child_two.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/frag_second_child_one.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/frag_second_child_one.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/frag_third_child_one.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/frag_third_child_one.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/infltae_one_frag.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/infltae_one_frag.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/third_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/third_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/six_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/six_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/fifth_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/fifth_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/first_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/first_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/fragment_third_child_two.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/fragment_third_child_two.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/fragment_six_child_two.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/fragment_six_child_two.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/dialog_ask_pass.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/dialog_ask_pass.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/four_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/four_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/second_question.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/second_question.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/abhinaym/AndroidStudioProjects/new1/app/build/intermediates/res/merged/debug/layout/payment_dialog.xml",
+        "source": "/home/abhinaym/AndroidStudioProjects/new1/app/src/main/res/layout/payment_dialog.xml"
+    }
+]
